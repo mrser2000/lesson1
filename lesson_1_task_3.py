@@ -1,4 +1,3 @@
-imput = ()
-last_name = {"Сергей"}
-first_name = ("Соловьев")
+first_name = input("Введите имя: ")
+last_name = input("Введите фамилию: ")
 print (f"Вас зовут: {last_name} {first_name}") 
